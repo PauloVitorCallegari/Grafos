@@ -1,0 +1,12 @@
+Vitória;São Paulo;500.00
+Vitória;Rio de Janeiro;300.00
+Rio de Janeiro;São Paulo;150.00
+São Paulo;Nova York;3500.00
+São Paulo;Miami;2000.00
+Rio de Janeiro;Bogotá;400.00
+Bogotá;Miami;400.00
+Miami;Nova York;300.00
+São Paulo;Paris;4000.00
+Paris;Nova York;1000.00
+Lisboa;Paris;400.00
+São Paulo;Lisboa;3000.00
